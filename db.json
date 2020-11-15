@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "nome": "Wagner",
+      "cpf": "36475839281",
+      "idade": "45",
+      "id": 2,
+      "telefone": "83994786154"
+    },
+    {
+      "nome": "Danilindo",
+      "cpf": "03378967048",
+      "idade": "21",
+      "telefone": "81994787195",
+      "id": 3
+    },
+    {
+      "nome": "usuario top",
+      "cpf": "55871614043",
+      "idade": "56",
+      "telefone": "083994567821",
+      "id": 4
+    },
+    {
+      "nome": "full stack",
+      "cpf": "03978784009",
+      "idade": "45",
+      "telefone": "98764321",
+      "id": 5
+    },
+    {
+      "nome": "mobile developer",
+      "cpf": "00001239007",
+      "idade": "21",
+      "telefone": "991425377",
+      "id": 6
+    }
+  ],
+  "mensagens": []
+}
